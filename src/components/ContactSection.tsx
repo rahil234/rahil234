@@ -17,7 +17,7 @@ const ContactSection = () => {
             If you're building something ambitious, let's talk.
           </p>
           <a
-            href="mailto:rahilsardar@email.com"
+            href="mailto:rahilsardar7@gmail.com"
             className="inline-block px-8 py-3 rounded-lg bg-primary text-primary-foreground font-medium hover:opacity-90 transition-opacity glow"
           >
             Say Hello →
